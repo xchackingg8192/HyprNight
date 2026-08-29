@@ -1,6 +1,6 @@
 # 🌙 HyprNight
 
-![HyprNight Showcase](https://github.com/xchackingg8192/HyprNight/blob/main/.github/showcase.png)
+![HyprNight Showcase](https://github.com/xchackingg8192/HyprNight/blob/main/showcase.png)
 
 ## 🇬🇧 English
 
