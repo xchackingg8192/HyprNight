@@ -1,5 +1,7 @@
 # 🌙 HyprNight
 
+![HyprNight Showcase](https://github.com/xchackingg8192/HyprNight/blob/main/.github/showcase.png)
+
 ## 🇬🇧 English
 
 Hi! This project is a shell designed for **Hyprland**, entirely coded in **Python**!
